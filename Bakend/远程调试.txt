@@ -1,0 +1,20 @@
+远程调试
+    参考 https://www.cnblogs.com/zhangyihui/p/5041872.html
+    将调试器拷贝到目标机器
+        /Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/Remote Debugger
+    调试时开启 msvsmon.exe，并设置
+        无认证调试
+        允许任何人进行调试
+        最长空闲时间设置为0
+        端口号 4024
+    阿里云开通4024端口
+    将最新的网站部署到服务器，并启动网页
+    本机开启 VS，打开项目，选择调试》附加到进程
+        连接类型：远程（无身份认证）
+        连接目标：feitiansports.com:4024
+        进程为：w3wp.exe
+    同本机调试一致：设置断点，操作网页，触发断点
+
+
+还有一种是基于ssh（linux netcore的）
+    参考：

@@ -1,0 +1,26 @@
+安卓应用市场
+2020-11
+
+# 三方市场
+
+应用宝   强制软著  https://sj.qq.com
+360     无需软著  http://sj.360.cn/index.html    
+百度     无需软著  https://shouji.baidu.com
+安智     ？？？？  http://www.anzhi.com
+豌豆荚  无需软著   https://www.wandoujia.com
+应用汇  ？？？？   http://www.appchina.com
+酷安     强制软著  https://www.coolapk.com/apk/
+
+
+百度：91助手、安卓市场
+阿里：豌豆荚、阿里九游、PP助手、UC应用商店
+
+
+# 厂商市场
+
+华为      https://consumer.huawei.com/cn/support/appstore/
+小米      http://app.mi.com
+VIVO     http://info.appstore.vivo.com.cn/detail/51699?from=singlemessage&source=2
+OPPO   https://www.oppomobile.com
+魅族      http://app.meizu.com
+三星      https://seller.samsungapps.com
